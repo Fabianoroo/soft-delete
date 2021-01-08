@@ -1,5 +1,5 @@
 <?php
-namespace Adianti\SoftDelete;
+namespace SoftDelete;
 
 use Adianti\Database\TRepository;
 
